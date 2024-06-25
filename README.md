@@ -1,23 +1,21 @@
-### Bem vindo, prazer! Danilo Gonçalves do Nascimento 😁
+### Welcome, pleasure! Danilo Gonçalves do Nascimento 😁
 
 
-:student: Formando em Análise e Desenvolvimento de Sistemas no UniCEUB. <br>
-:desktop_computer: Desenvolvedor Full-Stack. <br>
-:nerd_face: Estudando e à procura de uma oportunidade de trabalho. <br>
+:student: I'm graduating in Analysis and Systems Development at UniCEUB. <br>
+:desktop_computer: Full-Stack Developer. <br>
+:nerd_face: Studying and looking for a job opportunity. <br>
 <h3> Contato </h3>
 <a href = "mailto:dgndanilo@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-FBBC05?style=for-the-badge&logo=google&logoColor=white " target="_blank">
 </a>
 
 <a href="https://www.linkedin.com/in/isac-cavalcante-3035001ba/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> 
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 </a>
 <hr>
 
 <h3> Front-end </h3>
   <div>
-<!--     <img align="center" alt="react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-    <img align="center" alt="react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" /> -->
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
     <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
