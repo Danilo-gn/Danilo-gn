@@ -4,7 +4,7 @@
 :student: I'm graduating in Analysis and Systems Development at UniCEUB. <br>
 :desktop_computer: Full-Stack Developer. <br>
 :nerd_face: Studying and looking for a job opportunity. <br>
-<h3> Contato </h3>
+<h3> Contact </h3>
 <a href = "mailto:dgndanilo@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-FBBC05?style=for-the-badge&logo=google&logoColor=white " target="_blank">
 </a>
