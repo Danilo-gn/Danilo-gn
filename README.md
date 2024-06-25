@@ -1,9 +1,9 @@
 ### Bem vindo, prazer! Danilo Gonçalves do Nascimento 😁
 
 
-🧑‍🎓 Formando em Análise e Desenvolvimento de Sistemas no UniCEUB.
-🖥️ Desenvolvedor Full-Stack.
-🤓 Estudando e à procura de uma oportunidade de trabalho.
+:student: Formando em Análise e Desenvolvimento de Sistemas no UniCEUB.
+:desktop_computer: Desenvolvedor Full-Stack.
+:nerd_face: Estudando e à procura de uma oportunidade de trabalho.
 <h3> Contato </h3>
 <a href = "mailto:dgndanilo@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-FBBC05?style=for-the-badge&logo=google&logoColor=white " target="_blank">
