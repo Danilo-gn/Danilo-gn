@@ -20,9 +20,6 @@
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
     <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
     <img align="center" alt="bootstrp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/bootstrap/bootstrap-plain-wordmark.svg">
-    <img align="center" alt="bootstrp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg">
-    <img align="center" alt="bootstrp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg">
-    <img align="center" alt="bootstrp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuetify/vuetify-original.svg">
   </div>
 
 <hr>
